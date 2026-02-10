@@ -1,12 +1,17 @@
 # HR Analytics Dashboard
-An interactive Power BI dashboard to analyze workforce data and employee attrition trends.
 
-## Key Insights:
-- Identified an **Attrition Rate of 16.1%**.
-- Analyzed 1470+ employee records.
-- Key metrics: Average Age, Job Satisfaction, and Salary Slabs.
+### 📊 Project Summary
+An interactive Power BI dashboard to analyze employee attrition and workforce trends, helping HR make data-driven decisions.
 
-## Tools Used:
+### 🚀 Key Insights
+- **Attrition Rate:** 16.1% (237 out of 1470 employees)
+- **High Risk Age Group:** 26-35 years
+- **High Risk Salary:** Employees earning up to 5K
+- **Top Departments:** Life Sciences & Medical
+
+### 🛠️ Tools Used
 - **Power BI** (Visualizations & DAX)
 - **Power Query** (Data Cleaning)
 - **Excel** (Data Source)
+
+### **Project by:** [Samiksha Balgude](https://linkedin.com/in/samikshabalgude)
